@@ -59,7 +59,7 @@ ul {
   left: 50%;
   transform: translate(-50%, -50%);
   margin: auto;
-  width: 470px;
+  width: 460px;
   max-width: 100%;
   overflow: hidden;
   height: 700px;
@@ -69,7 +69,7 @@ ul {
 }
 .container > img {
   width: 100%;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 .container h1 {
   font-size: 30px;
